@@ -4,5 +4,5 @@
 # Use it with "pip install -r requirements.txt"
 
 oauth2
-lxml==2.3
+lxml==4.6.2
 webob==1.1.1
